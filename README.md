@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Thesis!<br>.<br>.<br>Reinforcement Learning and Unreal<br>True Crime lol
+I'm currently working on...My Thesis!<br>.<br>.<br>I'm currently learning about Reinforcement Learning and Unreal<br>
 
 
 ## 🌐 Socials:
