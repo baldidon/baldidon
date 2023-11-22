@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full stack engineer at Bazuel. Fill each day with joy
+Full stack engineer at Bazuel. Fill each day with joy.
+Now my profile could seem unused. I'll be back with new projects, I swear!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AndreaBaldinelli) 
