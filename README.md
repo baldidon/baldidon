@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on...My Thesis!<br>.<br>.<br>I'm currently learning about Reinforcement Learning and Unreal<br>
-
+Full stack engineer at Bazuel. Fill each day with joy
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AndreaBaldinelli) 
