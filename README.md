@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack engineer at Bazuel. Fill each day with joy.
+Full stack engineer at Sileon. Fill each day with joy.
 Now my profile could seem unused. I'll be back with new projects, I swear!
 
 ## 🌐 Socials:
